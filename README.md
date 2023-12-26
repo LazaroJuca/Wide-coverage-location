@@ -10,3 +10,4 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
 <img src="https://github.com/LazaroJuca/Wide-coverage-location/blob/main/desktop.jpeg?raw=true" />
+<img src="https://github.com/LazaroJuca/Wide-coverage-location/blob/main/mobile.jpeg?raw=true" />
